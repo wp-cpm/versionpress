@@ -1,5 +1,5 @@
 {
-  "name": "wp-cpm/vp-dist",
+  "name": "wp-cpm/versionpress",
   "description": "VersionPress is a version control plugin for WordPress. It versions both files and the database enabling things like site-wide reverts, safe updates, easy staging etc. All on your server.",
   "type": "wordpress-plugin",
   "require": {
