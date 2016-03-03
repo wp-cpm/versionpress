@@ -10,7 +10,6 @@ define('VERSIONPRESS_MIRRORING_DIR', WP_CONTENT_DIR . '/vpdb');
 define('VERSIONPRESS_TEMP_DIR', VERSIONPRESS_PLUGIN_DIR . '/temp');
 define('VERSIONPRESS_ACTIVATION_FILE', VERSIONPRESS_MIRRORING_DIR . '/.active');
 
-require_once(VERSIONPRESS_PLUGIN_DIR . '/vendor/autoload.php');
 require_once(VERSIONPRESS_PLUGIN_DIR . '/versionpress-functions.php');
 
 if (defined('DOING_AJAX')) {
